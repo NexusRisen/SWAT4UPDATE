@@ -1,0 +1,12 @@
+;aiu;
+
+[Update]
+Name = SWAT 4 - Elite Force
+ProductVersion = 7.0.2
+URL = https://github.com/NexusRisen/SWAT4ELITEFORCE/SWAT 4 - Elite Force.exe
+Size = 2041643253
+ReleaseDate = 08/06/2019
+MD5 = a7654d6a1531b2bbe5d29950e31f7956
+ServerFileName = SWAT 4 - Elite Force.exe
+RegistryKey = HKUD\Software\Burbian Games\SWAT 4 - Elite Force\Version
+Version = 7.0.2.0
